@@ -4,6 +4,10 @@ based on [this](https://www.youtube.com/watch?v=7Hlb8YX2-W8) livestream.
 - Feature based SLAM
 - ORB opencv3
 
+## Development Phases
+- Feature Detection
+![Feature Detection](/resources/feature_detection.png)
+
 ## Things to explore
 Some of the questions I had while going through the stream - 
 - Feature based SLAM vs Dense SLAM
